@@ -3,3 +3,4 @@ test
 testing webhook trigger in JENKINS
 FINAL TEST FOR CICD
 testing web hook
+testing webhook and excute shell to scp in tomcat
